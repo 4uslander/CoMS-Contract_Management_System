@@ -1,4 +1,4 @@
-**Contract Management System**
+**COMS - Contract Management System**
 
   **Overview**
 
